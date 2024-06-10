@@ -1,0 +1,38 @@
+body{
+ display: flex;
+ justify-content: center;
+ align-items: centers;
+     background-color: rgb(245, 138, 156);
+     
+    }
+    .obj{
+    text-align: center;
+
+    }
+
+.box{
+    text-align: center;
+    border-style:solid;
+    width: 400px;
+    height: 450px;
+    padding: 20px;
+    margin-top: 70px;
+background-color: rgb(246, 171, 208);
+}
+button{
+    background-color: rgb(38, 147, 215);
+    width: 200px;
+
+}
+.new{
+    text-align:center;
+}
+.container{
+    text-align: center;
+    border-style:solid;
+    width: 400px;
+    height: 450px;
+    padding: 20px;
+    margin-top: 70px;
+background-color: rgb(246, 171, 208);
+}
