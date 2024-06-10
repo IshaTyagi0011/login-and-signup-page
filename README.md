@@ -1,2 +1,2 @@
 # login-and-signup-page
-This is the login as well as signup page code linked with each other.using html, css. 
+This isthe simple login,signup and resetpassword webpage code linked with each other using html, css. 
